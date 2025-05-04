@@ -561,3 +561,148 @@ padding-top: 10px;
   letter-spacing: 0%;
   color: #292929;
 }
+
+.footer-container {
+  width: 1920px;
+  height: 561.25px;
+  margin: 30px;
+  background: #1a1a1a;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  
+}
+
+.footer-end-container {
+  width: 1920px;
+  height: 89.8px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: rgba(255, 255, 255, 0.15);
+  
+}
+
+.footer-content {
+  width: 1066px;
+  height: 390.37px;
+  margin-top: 58px;
+  margin-left: 427px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+ 
+}
+
+.footer-end-items-content {
+  width: 1064.58px;
+  height: 27px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  
+}
+
+.frame1 {
+  width: 663.390px;
+  height: 390.37px;
+  
+}
+
+.frame2 {
+  width: 347px;
+  height: 332px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  gap :10px;
+  
+}
+
+.frame1-text {
+width: 251px;
+height: 100px;
+margin-left: 1px;
+
+}
+
+.londrina-solid-regular {
+  font-family: "Londrina Solid", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.frame1-text span {
+  font-size: 50px;
+  line-height: 50px;
+  letter-spacing: 0%;
+  vertical-align: middle;
+}
+
+.adreslerim-list {
+  width: 306px;
+  height: 173.56px;
+  margin-top: 60px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+ 
+  
+
+}
+.adreslerim-list li {
+  list-style: none;
+  width: 306px;
+  height: 64.78px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  
+  
+}
+
+.adreslerim-list li span {
+  font-family: "Barlow", sans-serif;
+  font-style: normal;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 32.4px;
+  letter-spacing: 0%;
+  vertical-align: middle;
+}
+
+.hot-menu {
+  width: 306px;
+  height: 321.45px;
+  margin-left: 357px;
+  
+}
+
+.hot-menu p {
+  font-family: "Barlow", sans-serif;
+  font-style: normal;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 32.4px;
+  letter-spacing: 0%;
+  vertical-align: middle;
+}
+
+.hot-menu h3 {
+  font-family: "Barlow", sans-serif;
+  font-style: normal;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 32.11px;
+  letter-spacing: 0%;
+  vertical-align: middle;
+}
+
+.insta-card {
+  width:347px ;
+  height: 227px;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
